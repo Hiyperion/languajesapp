@@ -1,0 +1,21 @@
+.header {
+    border: 1px solid #000000;
+    border-radius: 4px;
+    padding: 4px;
+}
+.navigation {
+    display: flex;
+    list-style: none;
+    /* gap: 100px; */
+    
+}
+.ult {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 100%;
+  }
+.litem {
+    margin-right: 10px;
+    flex: 1;
+  }
