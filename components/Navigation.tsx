@@ -13,6 +13,10 @@ const links = [
   {
     label: 'Projects',
     route: '/projects'
+  },
+  {
+    label: 'Posts',
+    route: '/posts'
   }
 ]
 
